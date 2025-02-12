@@ -14,14 +14,14 @@ Run the main.dart file.
 
 ## Features
 
-![Simulator Screenshot - iPhone 15 Pro - 2025-02-12 at 14.43.06.png](..%2F..%2FDesktop%2FSimulator%20Screenshot%20-%20iPhone%2015%20Pro%20-%202025-02-12%20at%2014.43.06.png)
-![Simulator Screenshot - iPhone 15 Pro - 2025-02-12 at 14.43.22.png](..%2F..%2FDesktop%2FSimulator%20Screenshot%20-%20iPhone%2015%20Pro%20-%202025-02-12%20at%2014.43.22.png)
-![Simulator Screenshot - iPhone 15 Pro - 2025-02-12 at 14.45.44.png](..%2F..%2FDesktop%2FSimulator%20Screenshot%20-%20iPhone%2015%20Pro%20-%202025-02-12%20at%2014.45.44.png)
-![Simulator Screenshot - iPhone 15 Pro - 2025-02-12 at 14.45.52.png](..%2F..%2FDesktop%2FSimulator%20Screenshot%20-%20iPhone%2015%20Pro%20-%202025-02-12%20at%2014.45.52.png)
-![Simulator Screenshot - iPhone 15 Pro - 2025-02-12 at 14.47.52.png](..%2F..%2FDesktop%2FSimulator%20Screenshot%20-%20iPhone%2015%20Pro%20-%202025-02-12%20at%2014.47.52.png)
-![Simulator Screenshot - iPhone 15 Pro - 2025-02-12 at 14.48.34.png](..%2F..%2FDesktop%2FSimulator%20Screenshot%20-%20iPhone%2015%20Pro%20-%202025-02-12%20at%2014.48.34.png)
-![Simulator Screenshot - iPhone 15 Pro - 2025-02-12 at 14.52.04.png](..%2F..%2FDesktop%2FSimulator%20Screenshot%20-%20iPhone%2015%20Pro%20-%202025-02-12%20at%2014.52.04.png)
-![Simulator Screenshot - iPhone 15 Pro - 2025-02-12 at 14.53.02.png](..%2F..%2FDesktop%2FSimulator%20Screenshot%20-%20iPhone%2015%20Pro%20-%202025-02-12%20at%2014.53.02.png)
+![Image](https://github.com/user-attachments/assets/478506f8-9890-4fc6-afea-dfa927f1bc25)
+![Image](https://github.com/user-attachments/assets/310bcc2d-065c-4732-95aa-97f54e87c6b8)
+![Image](https://github.com/user-attachments/assets/27aa8dd4-8daf-4e86-8491-2aa1d214cb8e)
+![Image](https://github.com/user-attachments/assets/c63fd859-8d98-482d-8096-afd98fbadef4)
+![Image](https://github.com/user-attachments/assets/863bdcdc-efb8-468c-9acf-8c9ce951d935)
+![Image](https://github.com/user-attachments/assets/6414862c-3af2-4aff-aa76-f961593a5b98)
+![Image](https://github.com/user-attachments/assets/7eeb7f3f-fd3f-4e8f-866b-4a9bf2e646ee)
+![Image](https://github.com/user-attachments/assets/5c7e7f78-8cb3-4e3e-a152-64aefd9510f9)
 
 - Users can
     - Add, edit, delete, and view tasks.
